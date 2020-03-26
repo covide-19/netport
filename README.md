@@ -1,0 +1,2 @@
+# netport
+global net portal 
